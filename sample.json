@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "id": "S1",
+      "rectangles": [
+        {
+          "id": "plate",
+          "cx": 0, "cy": 0, "width": 100, "height": 80,
+          "holes": [
+            {"id": "h1", "cx": 30, "cy": 20, "width": 20, "height": 10}
+          ]
+        },
+        {"id": "tab", "cx": 60, "cy": 0, "width": 20, "height": 40}
+      ]
+    }
+  ]
+}
